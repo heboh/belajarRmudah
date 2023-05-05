@@ -8,27 +8,27 @@ File ini berisi bagaimana belajar cepat bahasa R
 
 # Belajar Sedikit demi Sedikit
 
-[[📂](belajarR/distribusiUniform.r)]
+[[📂](distribusiUniform.r)]
 [[🌍](https://statsidea.com/id/pengantar-distribusi-uniform/)]
 Distribusi Uniform
 
-[[📂](belajarR/uji-fisher.r)]
+[[📂](uji-fisher.r)]
 [[🌍](https://statsidea.com/id/uji-eksak-fisher/)]
 Uji Eksak Fisher
 
-[[📂](belajarR/uji-mann-whitney.r)]
+[[📂](uji-mann-whitney.r)]
 [[🌍](https://statsidea.com/id/uji-mann-whitney/)]
 Uji Mann Whitney
 
-[[📂](belajarR/BreuschPagan.r)]
+[[📂](BreuschPagan.r)]
 [[🌍](https://statsidea.com/id/uji-breusch-pagan-definisi-contoh/)]
 Uji Breusch Pagan
 
-[[📂](belajarR/wilcox.r)]
+[[📂](wilcox.r)]
 [[🌍](https://statsidea.com/id/uji-wilcoxon/)]
 Uji Wilcoxon
 
-[[📂](belajarR/kerangkaSampling.r)]
+[[📂](kerangkaSampling.r)]
 [[🌍](https://statsidea.com/id/apa-itu-kerangka-sampling/)]
 Kerangka Sampling
 
