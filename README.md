@@ -32,9 +32,9 @@ Uji Wilcoxon
 [[🌍](https://statsidea.com/id/apa-itu-kerangka-sampling/)]
 Kerangka Sampling
 
-[[🌍](https://voyageasia.fr)]
+[[Voyage asie](https://voyageasia.fr)]
 [[🌍](https://kampungingris.com)]
-[[🌍](https://sr28jambinews.com]
+[[🌍](https://sr28jambinews.com)]
 [[🌍](https://wwwrxsale.com)]
 [[🌍](https://jambi28.tv)]
 [[🌍](https://theyogabodyoceanside.com/)]
