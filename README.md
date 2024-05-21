@@ -37,7 +37,7 @@ Kerangka Sampling
 [[Berita Jambi Terkini](https://sr28jambinews.com)]
 [[🌍](https://wwwrxsale.com)]
 [[Jambi TV](https://jambi28.tv)]
-[[Yoga Bodya ocean](https://theyogabodyoceanside.com/)]
+[[Yoga Body oceanside](https://theyogabodyoceanside.com/)]
 [[Berita Jambi](https://pikirz.com)]
 [[Tanya](https://tanyain.my.id)]
 [[🌍](https://statsidea.com/id/algoritma-data-science-untuk-klasifikasi/)]
